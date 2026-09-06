@@ -1,0 +1,38 @@
+{
+  "id": "v1_ChdNMW1iYXBxcERlNl9nOFVQM05XaTBBbxIXTTFtYmFwcXBEZTZfZzhVUDNOV2kwQW8",
+  "status": "completed",
+  "environment_id": "4425f4de59646517c7c32a9e7b9e9ec8",
+  "usage": {
+    "total_tokens": 155523,
+    "total_input_tokens": 133692,
+    "input_tokens_by_modality": [
+      {
+        "modality": "text",
+        "tokens": 133692
+      }
+    ],
+    "total_cached_tokens": 24576,
+    "cached_tokens_by_modality": [
+      {
+        "modality": "text",
+        "tokens": 24576
+      }
+    ],
+    "total_output_tokens": 17261,
+    "output_tokens_by_modality": [
+      {
+        "modality": "text",
+        "tokens": 17261
+      }
+    ],
+    "total_tool_use_tokens": 0,
+    "total_thought_tokens": 4570,
+    "grounding_tool_count": [
+      {
+        "type": "google_search",
+        "count": 8,
+        "search_query_count": 8
+      }
+    ]
+  }
+}

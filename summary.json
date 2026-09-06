@@ -1,0 +1,51 @@
+{
+  "generated_at": "2026-09-05T17:13:43.062Z",
+  "total": 7,
+  "complete": 7,
+  "skipped": 0,
+  "failed": 0,
+  "results": [
+    {
+      "status": "complete",
+      "problem": "SIH26054",
+      "interaction_id": "v1_ChdiMG1jYXI3c0E0Q3RnOFVQdmVyYzhRZxIXYjBtY2FyN3NBNEN0ZzhVUHZlcmM4UWc",
+      "tokens": 85105
+    },
+    {
+      "status": "complete",
+      "problem": "SIH26138",
+      "interaction_id": "v1_ChdKa3FjYXVMelBJT3RnOFVQLUpDNTJRYxIXSmtxY2F1THpQSU90ZzhVUC1KQzUyUWM",
+      "tokens": 285355
+    },
+    {
+      "status": "complete",
+      "problem": "SIH26140",
+      "interaction_id": "v1_Chcxa3FjYXBhc0xhS3FnOFVQckxEam1RWRIXMWtxY2FwYXNMYUtxZzhVUHJMRGptUVk",
+      "tokens": 150234
+    },
+    {
+      "status": "complete",
+      "problem": "SIH26141",
+      "interaction_id": "v1_Chdma3VjYW9tN0ZwZjk0LUVQNU1LWS1BVRIXZmt1Y2FvbTdGcGY5NC1FUDVNS1ktQVU",
+      "tokens": 124444
+    },
+    {
+      "status": "complete",
+      "problem": "SIH26207",
+      "interaction_id": "v1_ChdHa3ljYXV5b09hUGRnOFVQNWNUczZRZxIXR2t5Y2F1eW9PYVBkZzhVUDVjVHM2UWc",
+      "tokens": 70589
+    },
+    {
+      "status": "complete",
+      "problem": "SIH26209",
+      "interaction_id": "v1_Chd2RXljYXZfZUdLRFFnOFVQMTgzU2lBaxIXdkV5Y2F2X2VHS0RRZzhVUDE4M1NpQWs",
+      "tokens": 74136
+    },
+    {
+      "status": "complete",
+      "problem": "SIH26217",
+      "interaction_id": "v1_ChdWazJjYXZpaUlZcW5nOFVQOTZqY2dBWRIXVmsyY2F2aWlJWXFuZzhVUDk2amNnQVk",
+      "tokens": 152257
+    }
+  ]
+}

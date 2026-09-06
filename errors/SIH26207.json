@@ -1,0 +1,22 @@
+{
+  "problem": {
+    "sno": 207,
+    "ps_number": "SIH26207",
+    "title": "Student Innovation-Smart education,a concept that describes learning in digital age. It enables learners to learn more effectively, efficiently, flexibly and comfortably.",
+    "org": "AICTE",
+    "department": "AICTE, MIC-Student Innovation",
+    "category": "Software",
+    "theme": "Smart Education",
+    "deadline": "30 September 2026",
+    "deadline_date": "2026-09-30",
+    "ideas": "4/500",
+    "dataset_link": "",
+    "contact": "",
+    "youtube": "",
+    "description": "Student Innovation-Smart education,a concept that describes learning in digital age. It enables learners to learn more effectively, efficiently, flexibly and comfortably.",
+    "scraped_at": "2026-09-05"
+  },
+  "error": "Antigravity returned an empty output.",
+  "stack": "Error: Antigravity returned an empty output.\n    at processProblem (file:///E:/SIH%202026/index.js:1174:13)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n    at async main (file:///E:/SIH%202026/index.js:1282:20)",
+  "time": "2026-09-05T15:24:59.442Z"
+}
